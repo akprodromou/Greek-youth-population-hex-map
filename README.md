@@ -4,6 +4,6 @@ A hexbin map showing the ratio of the 15-29 age group to the total population in
 
 Coded using D3.js and Python.
 
-The original idea of the map (for Germany) belongs to Ansgar Wolsing, so thank you :)
+The original idea of the map (for Germany) belongs to Ansgar Wolsing.
 
 Data source: [ELSTAT](https://www.statistics.gr/el/statistics/-/publication/SAM03/-)
